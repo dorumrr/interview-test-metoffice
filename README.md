@@ -4,7 +4,7 @@ This project was build using [Angular CLI 7.1.0](https://github.com/angular/angu
 
 ## See it in action
 
-GitHub Pages: [https://dorumrr.github.io/test-metoffice/](https://dorumrr.github.io/test-metoffice/)
+GitHub Pages: [https://dorumrr.github.io/test-metoffice/](https://dorumrr.github.io/metoffice/)
 
 ## Development server
 
