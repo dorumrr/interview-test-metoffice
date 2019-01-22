@@ -10,7 +10,7 @@ export class SharedService {
   constructor( public http: HttpClient) { }
 
   dataApi (metric: string, location: string) {
-    const url = `/assets/s3/${metric}-${location}.json`;
+    const url = `assets/s3/${metric}-${location}.json`;
     const options: object = { responseType: 'json' };
     return this.http.get(url, options);
   }
