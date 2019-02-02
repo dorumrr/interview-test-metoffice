@@ -4,7 +4,7 @@ This project was build using [Angular CLI 7.1.0](https://github.com/angular/angu
 
 ## See it in action
 
-GitHub Pages: [https://dorumrr.github.io/interview-test-metoffice/](https://dorumrr.github.io/metoffice/)
+GitHub Pages: [https://dorumrr.github.io/interview-test-metoffice/](https://dorumrr.github.io/interview-test-metoffice/)
 
 ## Development server
 
@@ -34,8 +34,6 @@ It wasn't mntioned, on purpose, but there was no agregated data for UK, as is ac
 
 [Doru Moraru](https://doru-moraru.com)
 
----
----
 ---
 
 ### TEST SPECS
