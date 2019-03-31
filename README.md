@@ -4,7 +4,7 @@ This project was build using [Angular CLI 7.1.0](https://github.com/angular/angu
 
 ## See it in action
 
-GitHub Pages: [https://dorumrr.github.io/interview-test-metoffice/](https://dorumrr.github.io/interview-test-metoffice/)
+GitHub Pages: [https://dorumrr.github.io/metoffice-doru-uk/](https://metoffice.doru.uk)
 
 ## Development server
 
@@ -36,7 +36,7 @@ It wasn't mntioned, on purpose, but there was no agregated data for UK, as is ac
 
 ---
 
-### TEST SPECS
+### SPECS
 
 Your mission is to create a simple Angular.io app using Angular Material that displays monthly weather data as a chart.
 
