@@ -4,7 +4,7 @@ This project was build using [Angular CLI 7.1.0](https://github.com/angular/angu
 
 ## See it in action
 
-GitHub Pages: [https://dorumrr.github.io/metoffice-doru-uk/](https://metoffice.doru.uk)
+[https://metoffice.doru.uk](https://metoffice.doru.uk)
 
 ## Development server
 
@@ -21,6 +21,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Deployment
+
+`npm run deploy`
 
 ---
 
