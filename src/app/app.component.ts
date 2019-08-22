@@ -25,7 +25,8 @@ export class AppComponent implements OnInit {
     startDate: '201701',
     endDate: '201712',
     metric: 'Tmax',
-    location: 'England'
+    // location: 'England'
+    location: 'UK'
   };
 
   constructor(private shared: SharedService) { }
