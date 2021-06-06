@@ -4,7 +4,7 @@ This project was build using [Angular CLI 7.1.0](https://github.com/angular/angu
 
 ## See it in action
 
-[https://metoffice.doru.uk](https://metoffice.doru.uk)
+[https://dorumrr.github.io/met-office/](https://dorumrr.github.io/met-office/)
 
 ## Development server
 
@@ -22,7 +22,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Deployment
+## Deployment to Github Pages
 
 `npm run deploy`
 
@@ -30,9 +30,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Notes
 
-For future availability of this test, all the .json files (simulated data) have been stored locally and no longer retrieved from interviewer's AWS S3.
-
-It wasn't mntioned, on purpose, but there was no agregated data for UK, as is actually composed of all three regions and would have been useless for the purpose of this test, therefore the data had to be be processed in the controller to be displayed correctly.
+For future availability of this test, all the .json files (simulated data) have been stored locally and no longer retrieved from S3.
 
 ---
 
