@@ -15,7 +15,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "github-pages": "ng build --prod --base-href 'https://metoffice.doru.uk/' && npx ngh --dir=dist/metoffice",
+    "github-pages": "ng build --prod --base-href 'https://dorumrr.github.io/met-office/' && npx ngh --dir=dist/metoffice",
     "deploy": "npm run github-pages"
   },
   "private": true,
